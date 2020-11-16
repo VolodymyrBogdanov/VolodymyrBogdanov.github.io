@@ -34,8 +34,8 @@
   font-size:150%;
 }
 #profil img {
-  width:180px;
-  height:180px;
+  width:200px;
+  height:190px;
   overflow:hidden;
   border-radius:100%;
   margin-left:auto;
@@ -47,18 +47,17 @@
   margin-left:-100px;
 }
 #socialmedia{
-  background-color:#c6b036;
+  background-color:#1ba702;
   height:50px;
 }
 .box {
   width:350px;
   height:50px;
   float:left;
-  color:#0f0e0e;
+  color:#000000;
   font-weight:bold;
   text-align:center;
-      font-size:130%;
-
+  font-size:140%;
   line-height:50px;
   cursor:pointer;
 }
@@ -67,7 +66,7 @@
   text-decoration:none;
 }
 .box:hover a {
-  color:#f8f8f8;
+  color:#ffffff;
 }
 #fb:hover {
   background-color:#1c3a7b;
